@@ -1,4 +1,6 @@
 // Code your solution in this file!
+const drivers = ['Antonia', 'Nuru', 'Amari', 'Mo']
+
 const returnFirstTwoDrivers = function(drivers){
     return [drivers[0], drivers[1]];
 }
